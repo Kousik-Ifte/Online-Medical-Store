@@ -1,4 +1,4 @@
-# Online-Medical-Store
+# OnlineMedicalStore
 Online Medical Store using MySQL, Php and Bootstrap
 
 ## Prerequisites
